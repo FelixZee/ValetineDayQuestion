@@ -43,8 +43,9 @@ body {
 }
 
 .text-end {
-    postion: absolute;
-    button: 30px;
-    right: 30px;
-    font-size: 15px;
-    color: rgb(155, 34, 34);
+   position: absolute;
+   bottom: 30px;
+   right: 30px;
+   font-size: 15px;
+   color: rgb(155, 34, 34);
+}
